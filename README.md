@@ -60,7 +60,7 @@ Go to Settings > Update & Security > For developers > click to enable Developer 
 
 - Which Windows version is compatible ?
 
-Windows 10 64bit 20H2 to latest whatever version. If u have older version use at ur own risk.
+Windows 10 & 11 latest whatever version. If u have older version, use at ur own risk.
 
 - Why no 32bit support ?
 
